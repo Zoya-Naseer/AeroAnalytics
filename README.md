@@ -1,3 +1,6 @@
+# Dashboard Link
+https://drive.google.com/file/d/187T73prEiLPs2eln7Y3egqEf9F7emIZY/view?usp=sharing 
+
 # ✈️ Aero Analytics – Airline Profitability Prediction
 
 ## 🚀 Project Overview
