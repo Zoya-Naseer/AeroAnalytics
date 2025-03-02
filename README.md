@@ -36,9 +36,9 @@ Explore the interactive visualizations and insights.
 Use the ML-powered predictions to make data-driven decisions.
 
 ## 👥 Team Members
-Ujwal Reddy – Machine Learning & Data Analytics
-Zoya – Data Visualization & Dashboard Development
-Nisha – Data Processing & Model Optimization
+- Ujwal Reddy – Machine Learning & Data Analytics
+- Zoya – Data Visualization & Dashboard Development
+- Nisha – Data Processing & Model Optimization
 
 ## 🏆 Conclusion
 Our project provides an AI-driven solution for predicting airline profitability, empowering airlines to make informed financial decisions. With data analytics and machine learning, we enhance the industry's ability to adapt to market fluctuations.
