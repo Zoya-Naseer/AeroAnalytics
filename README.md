@@ -7,17 +7,17 @@ Airline profitability is influenced by various factors, including fuel costs, pa
 The aviation industry faces challenges in predicting profitability due to fluctuating costs and demand patterns. Our solution aims to provide airlines with an AI-powered profitability prediction model that enables better financial planning and decision-making.
 
 ## 🎯 Key Features
-✔️ Data-Driven Insights – Analyzes key factors impacting profitability.
-✔️ Machine Learning Model – Predicts profitability with high accuracy.
-✔️ Interactive Dashboard – Visualizes critical metrics for informed decision-making.
-✔️ Actionable Recommendations – Helps airlines optimize operations.
+-  Data-Driven Insights – Analyzes key factors impacting profitability.
+-  Machine Learning Model – Predicts profitability with high accuracy.
+-  Interactive Dashboard – Visualizes critical metrics for informed decision-making.
+-  Actionable Recommendations – Helps airlines optimize operations.
 
 ## 🛠️ Tech Stack
-🔹 Power BI – Interactive visualization dashboard
-🔹 Python – Data preprocessing and model building
-🔹 Pandas & NumPy – Data manipulation and analysis
-🔹 Scikit-learn – Machine learning model development
-🔹 Matplotlib & Seaborn – Data visualization
+  - Power BI – Interactive visualization dashboard
+  - Python – Data preprocessing and model building
+  - Pandas & NumPy – Data manipulation and analysis
+  - Scikit-learn – Machine learning model development
+  - Matplotlib & Seaborn – Data visualization
 
 ## 📊 Dataset & Methodology
 Data Collection – Extracted from multiple sources, including financial reports and airline databases.
@@ -34,7 +34,8 @@ Our Power BI dashboard provides:
 Open the Aero-Analytics_Hackathon.pbix file in Power BI.
 Explore the interactive visualizations and insights.
 Use the ML-powered predictions to make data-driven decisions.
-👥 Team Members
+
+## 👥 Team Members
 Ujwal Reddy – Machine Learning & Data Analytics
 Zoya – Data Visualization & Dashboard Development
 Nisha – Data Processing & Model Optimization
